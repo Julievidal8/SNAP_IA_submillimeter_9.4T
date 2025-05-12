@@ -1,5 +1,5 @@
 # SNAP_IA_PROTOCOL
-Those analyses follow a protocol named SNAP, which is in preparation 
+Those analyses follow a protocol named SNAP, which is in preparation.
 
 Citation: Vidal, J. P., ... & Barbeau, E. J. (in prep.) SNAP-IA: New standardized methodology for the assessment of the Interthalamic Adhesion using anatomical MRI.
 ![image](https://github.com/user-attachments/assets/efd2737d-d364-465e-80fd-dbe729bcd5e1)

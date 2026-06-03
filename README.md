@@ -1,7 +1,7 @@
 # SNAP_IA_PROTOCOL
 Those analyses follow a protocol named SNAP, which is in preparation.
 
-Citation: Vidal, J. P., ... & Barbeau, E. J. (in prep.) SNAP-IA: New standardized methodology for the assessment of the Interthalamic Adhesion using anatomical MRI.
+Citation: Vidal, J. P., Forno, G., Hornberger, M., Cuadra, M. B., Danet, L., Kumar, V. J., ... & Barbeau, E. J. (2026). Standardized methodology for assessing the presence, variants and area of the interthalamic adhesion using anatomical MRI (SNAP-IA): multicentric validation on 565 healthy individuals and multiple neurological disorders. Brain Structure and Function, 231(3), 42.
 ![image](https://github.com/user-attachments/assets/efd2737d-d364-465e-80fd-dbe729bcd5e1)
 
 # SNAP_IA_submillimeter_9.4T
